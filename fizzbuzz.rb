@@ -5,5 +5,6 @@ def fizzbuzz(int)
   if int % 5 == 0
     puts "Buzz"
   end
-  if int % 15 == log10
+  if int % 15 == 0
+  end
 end
