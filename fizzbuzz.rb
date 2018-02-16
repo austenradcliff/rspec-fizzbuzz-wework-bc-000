@@ -6,6 +6,6 @@ def fizzbuzz(int)
     puts "Buzz"
   end
   if int % 15 == 0
-    puts ""
+    puts "FizzBuzz"
   end
 end
